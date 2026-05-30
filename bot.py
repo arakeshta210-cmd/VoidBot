@@ -18,7 +18,7 @@ from telegram.ext import (
 )
 
 # ─── CONFIG ───────────────────────────────────────────
-BOT_TOKEN  = "8636526459:AAGpNjfMY25BLc25PZ6vjzTkW1ICm6daAh8"
+BOT_TOKEN  = "8636526459:AAGt18m9Wx778WDSs01sDAyUtQ_BMJQPTwg"
 CHANNEL_ID = "@newchannel900"       # or numeric: -1001234567890
 ADMIN_IDS  = [1339904459]          # your Telegram user ID(s)
 # ──────────────────────────────────────────────────────
